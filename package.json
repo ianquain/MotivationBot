@@ -1,0 +1,21 @@
+{
+  "name": "motivationbot",
+  "version": "1.0.0",
+  "description": "Twitter Bot designed to reply to tweets with motivational quotes",
+  "main": "bot.js",
+  "scripts": {
+	"start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "TwitterBot",
+    "Motivation",
+    "Quotes"
+  ],
+  "author": "Ian Quain",
+  "license": "ISC",
+  "dependencies": {
+    "npm": "^6.2.0",
+    "twit": "^2.2.11"
+  }
+}
